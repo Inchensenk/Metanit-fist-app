@@ -1,6 +1,8 @@
 {
   "name": "purchaseapp",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "First Angular 16 Project",
+  "author": "Eugene Popov metanit.com",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
